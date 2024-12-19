@@ -3,7 +3,7 @@
   HUGO_VERSION = "0.122.0"
   HUGO_ENV = "production"
   HUGO_THEME = "repo"
-  HUGO_BASEURL = "https://hugo-theme-nightfall.netlify.com"
+  HUGO_BASEURL = "https://hugo-theme-nightfall.netlify.app"
 
 [build]
   publish = "exampleSite/public"
