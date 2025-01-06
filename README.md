@@ -27,9 +27,9 @@ Import manually:
 
 ## Configuration
 
-For full example chech `exampleSite/config.toml`
+For full example check `exampleSite/config.toml`
 
-Add these params to you `config.toml`
+Add these params to your `config.toml`
 
 ```toml
 [params]
@@ -77,7 +77,7 @@ url = "mailto:email@example.com"
 You can customize post title and link color
 
 ```toml
-[[params.styles]]
+[params.styles]
 color = "orange"
 ```
 
