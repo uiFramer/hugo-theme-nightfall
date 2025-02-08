@@ -41,6 +41,7 @@ hostname = "gohugo.io"
     avatar = "/avatar.png"
     avatarSize = "size-m"
     email = "hugo@example.com"
+    avatarFirst = false
 ```
 ### Social links
 
