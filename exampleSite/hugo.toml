@@ -1,6 +1,11 @@
-baseURL = 'http://gohugo.io/'
+baseURL = 'https://gohugo.io/'
 languageCode = 'en-us'
 theme = "hugo-theme-nightfall"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
 
 [menu]
   [[menu.header]]
