@@ -1,3 +1,3 @@
-module github.com/LordMathis/hugo-theme-nightfall
+module github.com/lordmathis/hugo-theme-nightfall
 
 go 1.20

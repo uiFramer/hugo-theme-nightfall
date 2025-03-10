@@ -12,7 +12,7 @@ Nightfall is a minimal dark theme for Hugo. [Demo](https://hugo-theme-nightfall.
 
 Install [Hugo](https://gohugo.io/installation/) and **[dart-sass](https://gohugo.io/functions/resources/tocss/#dart-sass)**.
 
-Import as [hugo module](https://gohugo.io/hugo-modules/use-modules/#use-a-module-for-a-theme) in `config.toml`:
+Import as [hugo module](https://gohugo.io/hugo-modules/use-modules/#use-a-module-for-a-theme) in `hugo.toml`:
 ```toml
 [module]
 [[module.imports]]
@@ -23,13 +23,13 @@ OR
 
 Import manually:
 1. `git clone https://github.com/LordMathis/hugo-theme-nightfall themes/nightfall`
-2. Add `theme = "nightfall"` in your `config.toml`:
+2. Add `theme = "nightfall"` in your `hugo.toml`:
 
 ## Configuration
 
-For full example check `exampleSite/config.toml`
+For full example check `exampleSite/hugo.toml`
 
-Add these params to your `config.toml`
+Add these params to your `hugo.toml`
 
 ```toml
 [params]
@@ -98,7 +98,7 @@ You can also disable metadata on a specific page by adding `showMetadata = false
 
 ### Description
 
-To add a site wide description, add `sitedescription` to `config.toml`. For example:
+To add a site wide description, add `sitedescription` to `hugo.toml`. For example:
 ```toml
 [params]
 sitedescription = 'Your website description'
@@ -115,7 +115,7 @@ description = 'This is the description'
 ```
 ### Menu
 
-To add a menu item add `[[menu.header]]` item to `config.toml`. For example:
+To add a menu item add `[[menu.header]]` item to `hugo.toml`. For example:
 
 ```toml
 [menu]
