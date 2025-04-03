@@ -1,16 +1,16 @@
 +++
 author = "Hugo Authors"
-title = "Markdown Syntax Guide"
-date = "2019-03-11"
+title = "İnternet güzeldir! ♥️"
+date = "2025-03-25"
 description = "Sample article showcasing basic Markdown syntax and formatting for HTML elements."
 tags = [
-    "markdown",
-    "css",
-    "html",
+    "web",
+    "internet",
+    "bookmark",
 ]
 categories = [
-    "themes",
-    "syntax",
+    "blog",
+    "internet",
 ]
 series = ["Themes Guide"]
 aliases = ["migrate-from-jekyl"]
