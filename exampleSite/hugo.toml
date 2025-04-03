@@ -18,11 +18,11 @@ theme = "hugo-theme-nightfall"
     url = "about"
 
 [params]
-user = "hello"
-hostname = "gohugo.io"
+user = "hellows;"
+hostname = "gohugo"
   [params.author]
-    name = "Hugo Nightfall"  # Website and RSS feed author
-    email = "email@example.com"  # RSS feed email address
+    name = "A. Mertoğlu"  # Website and RSS feed author
+    email = "abdullah.mertoglu99@gmail.com"  # RSS feed email address
 
 
 readingTime = true  # Show reading time on post page
@@ -31,24 +31,18 @@ published = true  # Show published data on post page
 [[params.social]]
 key = 0
 name = "github"
-url = "https://github.com/gohugoio"
+url = "https://github.com/uiframer"
 target = "_blank"
 aria = "GitHub Profile"
 
 [[params.social]]
 key = 1
 name = "twitter"
-url = "https://www.example.com"
+url = "https://x.com/amertoglu16"
 aria = "Twitter Profile"
 
 [[params.social]]
 key = 2
-name = "linkedin"
-url = "https://www.example.com"
-aria = "LinkedIn Profile"
-
-[[params.social]]
-key = 3
 name = "email"
-url = "mailto:email@example.com"
+url = "mailto:abdullah.mertoglu99@gmail.com"
 aria = "My e-Mail Address"
