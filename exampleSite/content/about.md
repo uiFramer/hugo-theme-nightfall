@@ -2,7 +2,7 @@
 title = "About"
 description = "I am a software engineer with extensive experience in software development. I specialize in Python, JavaScript, and PHP.
 "
-date = "2019-02-28"
+date = "2025-03-23"
 aliases = ["about-us", "about-hugo", "contact"]
 author = "Hugo Authors"
 +++
