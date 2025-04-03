@@ -1,25 +1,32 @@
 +++
 title = "About"
-description = "Hugo, the world's fastest framework for building websites"
+description = "I am a software engineer with extensive experience in software development. I specialize in Python, JavaScript, and PHP.
+"
 date = "2019-02-28"
 aliases = ["about-us", "about-hugo", "contact"]
 author = "Hugo Authors"
 +++
 
-Written in Go, Hugo is an open source static site generator available under the [Apache Licence 2.0.](https://github.com/gohugoio/hugo/blob/master/LICENSE) Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
+### Areas of Expertise
+#### Python
+I have developed projects in data analysis, machine learning, and web development.
 
-Hugo makes use of a variety of open source projects including:
+#### JavaScript
+I actively use it for frontend and backend development, with experience in React and Node.js.
 
-* https://github.com/yuin/goldmark
-* https://github.com/alecthomas/chroma
-* https://github.com/muesli/smartcrop
-* https://github.com/spf13/cobra
-* https://github.com/spf13/viper
+#### PHP
+I have completed various projects using PHP to create dynamic web applications.
 
-Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.
+### Experience
+I have been involved in many projects, including:
 
-Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.
+- Web applications
+- API development
+- Database management
 
-Websites built with Hugo are extremely fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.
+### Contact
+Feel free to reach out to me for more information about my projects and collaboration opportunities.
 
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+<a target='_blank' href='https://github.com/uiframer'>Github</a>
+<br/>
+<a target='_blank' href='https://twitter.com/amertoglu16'>Twitter</a>
