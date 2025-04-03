@@ -16,6 +16,10 @@ theme = "hugo-theme-nightfall"
     name = "about"
     weight = 1
     url = "about"
+  [[menu.header]]
+    name = "bookmarks"
+    weight = 2
+    url = "bookmarks"
 
 [params]
 user = "hellows;"
