@@ -48,7 +48,7 @@ aria = "Twitter Profile"
 
 [[params.social]]
 key = 2
-name = "google"
+name = "search"
 url = "https://google.com"
 aria = "Search"
 
