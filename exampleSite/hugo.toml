@@ -34,19 +34,19 @@ published = true  # Show published data on post page
 
 [[params.social]]
 key = 0
-name = "🐱 github"
+name = "github"
 url = "https://github.com/uiframer"
 target = "_blank"
 aria = "GitHub Profile"
 
 [[params.social]]
 key = 1
-name = "🐦 twitter"
+name = "twitter"
 url = "https://x.com/amertoglu16"
 aria = "Twitter Profile"
 
 [[params.social]]
 key = 2
-name = "✍️ send"
+name = "e-mail"
 url = "mailto:abdullah.mertoglu99@gmail.com"
 aria = "My e-Mail Address"
