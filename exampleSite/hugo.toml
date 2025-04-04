@@ -25,7 +25,7 @@ theme = "hugo-theme-nightfall"
 user = "hellows;"
 hostname = "gohugo"
   [params.author]
-    name = "A. Mertoğlu"  # Website and RSS feed author
+    name = "hellows;"  # Website and RSS feed author
     email = "abdullah.mertoglu99@gmail.com"  # RSS feed email address
 
 
@@ -48,7 +48,7 @@ aria = "Twitter Profile"
 
 [[params.social]]
 key = 2
-name = "bookmarks"
+name = "links"
 url = "/bookmarks"
 aria = "Bookmarks"
 
