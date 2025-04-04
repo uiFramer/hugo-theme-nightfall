@@ -43,7 +43,14 @@ aria = "GitHub Profile"
 key = 1
 name = "twitter"
 url = "https://x.com/amertoglu16"
+target = "_blank"
 aria = "Twitter Profile"
+
+[[params.social]]
+key = 2
+name = "send-me"
+url = "mailto:abdullah.mertoglu99@gmail.com"
+aria = "My e-Mail Address"
 
 [[params.social]]
 key = 2
