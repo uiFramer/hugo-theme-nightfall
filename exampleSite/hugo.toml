@@ -48,6 +48,13 @@ aria = "Twitter Profile"
 
 [[params.social]]
 key = 2
-name = "send-me"
+name = "links"
+url = "https://amertoglu.bio.link"
+target = "_blank"
+aria = "My links"
+
+[[params.social]]
+key = 3
+name = "e-mail"
 url = "mailto:abdullah.mertoglu99@gmail.com"
 aria = "My e-Mail Address"
