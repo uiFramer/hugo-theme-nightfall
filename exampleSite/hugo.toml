@@ -51,9 +51,3 @@ key = 2
 name = "send-me"
 url = "mailto:abdullah.mertoglu99@gmail.com"
 aria = "My e-Mail Address"
-
-[[params.social]]
-key = 2
-name = "e-mail"
-url = "mailto:abdullah.mertoglu99@gmail.com"
-aria = "My e-Mail Address"
