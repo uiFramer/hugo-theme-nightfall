@@ -1,6 +1,5 @@
 +++
 title = "About ✍️"
-aliases = ["about-us", "about-hugo", "contact"]
 +++
 
 I am a software engineer with extensive experience in software development. I specialize in Python, JavaScript and PHP.
