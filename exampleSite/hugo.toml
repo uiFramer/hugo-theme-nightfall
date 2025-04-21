@@ -10,11 +10,11 @@ theme = "hugo-theme-nightfall"
 [menu]
   [[menu.header]]
     name = "about"
-    weight = 0
+    weight = 1
     url = "about"
   [[menu.header]]
     name = "bookmarks"
-    weight = 1
+    weight = 2
     url = "bookmarks"
 
 [params]
