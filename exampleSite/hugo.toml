@@ -9,16 +9,12 @@ theme = "hugo-theme-nightfall"
 
 [menu]
   [[menu.header]]
-    name = "blog"
-    weight = 0
-    url = "blog"
-  [[menu.header]]
     name = "about"
-    weight = 1
+    weight = 0
     url = "about"
   [[menu.header]]
     name = "bookmarks"
-    weight = 2
+    weight = 1
     url = "bookmarks"
 
 [params]
