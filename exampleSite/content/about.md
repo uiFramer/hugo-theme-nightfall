@@ -9,10 +9,10 @@ i'm a software engineer with extensive experience in software development. i spe
 i have developed projects in data analysis, machine learning, and web development.
 
 #### javascript
-i actively use it for frontend and backend development, with experience in React and Node.js.
+i actively use it for frontend and backend development, with experience in react and node.js.
 
 #### php
-i have completed various projects using PHP to create dynamic web applications.
+i have completed various projects using php to create dynamic web applications.
 
 # experience 🎮
 i have been involved in many projects, including:
