@@ -1,29 +1,29 @@
 +++
-title = "About ✍️"
+title = "about ✍️"
 +++
 
-I am a software engineer with extensive experience in software development. I specialize in Python, JavaScript and PHP.
+i'm a software engineer with extensive experience in software development. i specialize in python, javascript and php.
 
-# Areas of Expertise ⭐
-#### Python
-I have developed projects in data analysis, machine learning, and web development.
+# areas of expertise ⭐
+#### python
+i have developed projects in data analysis, machine learning, and web development.
 
-#### JavaScript
-I actively use it for frontend and backend development, with experience in React and Node.js.
+#### javascript
+i actively use it for frontend and backend development, with experience in React and Node.js.
 
-#### PHP
-I have completed various projects using PHP to create dynamic web applications.
+#### php
+i have completed various projects using PHP to create dynamic web applications.
 
-# Experience 🎮
-I have been involved in many projects, including:
+# experience 🎮
+i have been involved in many projects, including:
 
-- Web applications
-- API development
-- Database management
+- web applications
+- api development
+- database management
 
-# Contact 📩
-Feel free to reach out to me for more information about my projects and collaboration opportunities.
+# contact 📩
+feel free to reach out to me for more information about my projects and collaboration opportunities.
 
-<a target='_blank' href='https://github.com/uiframer'>Github</a>
+<a target='_blank' href='https://github.com/uiframer'>github</a>
 <br/>
-<a target='_blank' href='https://twitter.com/amertoglu16'>Twitter</a>
+<a target='_blank' href='https://twitter.com/amertoglu16'>twitter</a>
