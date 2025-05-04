@@ -11,7 +11,7 @@ theme = "hugo-theme-nightfall"
   [[menu.header]]
     name = "about"
     weight = 1
-    url = "amertoglu"
+    url = "about"
   [[menu.header]]
     name = "bookmarks"
     weight = 2
