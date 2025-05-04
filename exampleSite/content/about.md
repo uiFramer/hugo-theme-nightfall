@@ -27,3 +27,5 @@ Feel free to reach out to me for more information about my projects and collabor
 <a target='_blank' href='https://github.com/uiframer'>Github</a>
 <br/>
 <a target='_blank' href='https://x.com/amertoglu16'>Twitter</a>
+<br/>
+<a href='mailto:abdullah.mertoglu99@gmail.com'>Send Mail</a>
