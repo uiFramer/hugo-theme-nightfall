@@ -1,5 +1,5 @@
 +++
-title = "/amertoglu 🧑‍💻"
+title = "about 🧑‍💻"
 +++
 
 i'm a software engineer with extensive experience in software development. i specialize in python, javascript and php.
