@@ -22,4 +22,6 @@ I have been involved in many projects, including:
 - Database Management
 
 # Contact
-Feel free to reach out to me for more information about my projects and collaboration opportunities. <a href='mailto:abdullah.mertoglu99@gmail.com'>Send mail</a>
+Feel free to reach out to me for more information about my projects and collaboration opportunities.
+
+<a href='mailto:abdullah.mertoglu99@gmail.com'>Send mail</a>
