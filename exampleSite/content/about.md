@@ -24,8 +24,4 @@ I have been involved in many projects, including:
 # Contact
 Feel free to reach out to me for more information about my projects and collaboration opportunities.
 
-<a target='_blank' href='https://github.com/uiframer'>Github</a>
-<br/>
-<a target='_blank' href='https://x.com/amertoglu16'>Twitter</a>
-<br/>
 <a href='mailto:abdullah.mertoglu99@gmail.com'>E-mail</a>
