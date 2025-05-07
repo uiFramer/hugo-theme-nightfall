@@ -3,7 +3,7 @@
   HUGO_VERSION = "0.144.2"
   HUGO_ENV = "production"
   HUGO_THEME = "repo"
-  HUGO_BASEURL = "https://hellows.netlify.app"
+  HUGO_BASEURL = "https://devblackcat.netlify.app"
 
 [build]
   publish = "exampleSite/public"
