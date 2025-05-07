@@ -56,6 +56,6 @@ aria = "X Profile"
 
 [[params.social]]
 key = 5
-name = "e-mail"
+name = "send me"
 url = "mailto:abdullah.mertoglu99@gmail.com"
 aria = "E-mail"
