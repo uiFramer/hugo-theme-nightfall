@@ -62,6 +62,6 @@ aria = "Search"
 
 [[params.social]]
 key = 6
-name = "send me"
+name = "e-mail"
 url = "mailto:abdullah.mertoglu99@gmail.com"
-aria = "My e-Mail Address"
+aria = "E-mail"
