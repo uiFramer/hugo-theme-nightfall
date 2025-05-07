@@ -18,10 +18,10 @@ theme = "hugo-theme-nightfall"
     url = "bookmarks"
 
 [params]
-user = "hellows;"
+user = "devblackcat{}"
 hostname = "gohugo"
   [params.author]
-    name = "hellows;"  # Website and RSS feed author
+    name = "devblackcat{}"  # Website and RSS feed author
     email = "abdullah.mertoglu99@gmail.com"  # RSS feed email address
 
 
@@ -38,7 +38,7 @@ aria = "GitHub Profile"
 [[params.social]]
 key = 1
 name = "twitter"
-url = "https://x.com/helllows"
+url = "https://x.com/devblackcat"
 target = "_blank"
 aria = "Twitter Profile"
 
