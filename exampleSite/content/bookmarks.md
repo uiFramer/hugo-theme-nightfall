@@ -1,5 +1,5 @@
 +++
-title = "my bookmarks"
+title = "bookmarks"
 description = "explore the web"
 date = "2025-03-25"
 aliases = ["about-us", "about-hugo", "contact"]
