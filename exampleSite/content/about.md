@@ -1,29 +1,29 @@
 +++
-title = "About Me"
-description = "I'm a software engineer with extensive experience in software development. I specialize in Python, Javascript and PHP."
+title = "about me"
+description = "i'm a software engineer with extensive experience in software development. i specialize in python, javascript and php."
 date = "2025-03-25"
 aliases = ["about-us", "about-hugo", "contact"]
 author = "Hugo Authors"
 +++
 
-# Areas of Expertise
-#### Python
-I have developed projects in data analysis, machine learning, and web development.
+# areas of expertise
+#### python
+i have developed projects in data analysis, machine learning and web development.
 
-#### Javascript
-I actively use it for frontend and backend development, with experience in react and node.js.
+#### javascript
+i actively use it for frontend and backend development, with experience in react and node.js.
 
-#### PHP
-I have completed various projects using PHP to create dynamic web applications.
+#### php
+i have completed various projects using php to create dynamic web applications.
 
-# Experience
-I have been involved in many projects, including:
+# experience
+i have been involved in many projects, including:
 
-- Web Applications
-- API Development
-- Database Management
+- web applications
+- api development
+- database management
 
-# Contact
-Feel free to reach out to me for more information about my projects and collaboration opportunities.
+# contact
+feel free to reach out to me for more information about my projects and collaboration opportunities.
 
-<a href='mailto:devblackcat@yahoo.com'>Send mail</a>
+<a href='mailto:devblackcat@yahoo.com'>send mail</a>
