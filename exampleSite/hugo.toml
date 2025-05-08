@@ -30,32 +30,20 @@ published = true  # Show published data on post page
 
 [[params.social]]
 key = 1
-name = "about me"
-url = "/about"
-aria = "About Me"
-
-[[params.social]]
-key = 2
-name = "bookmarks"
-url = "/bookmarks"
-aria = "Bookmarks"
-
-[[params.social]]
-key = 3
 name = "github"
 url = "https://github.com/uiframer"
 target = "_blank"
 aria = "GitHub Profile"
 
 [[params.social]]
-key = 4
-name = "x"
+key = 2
+name = "twitter"
 url = "https://x.com/devblackcat"
 target = "_blank"
-aria = "X Profile"
+aria = "Twitter Profile"
 
 [[params.social]]
-key = 5
-name = "send mail"
+key = 3
+name = "send me"
 url = "mailto:devblackcat@yahoo.com"
-aria = "Send Mail"
+aria = "Send Me"
