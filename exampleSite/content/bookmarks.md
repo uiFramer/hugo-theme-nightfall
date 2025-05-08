@@ -1,6 +1,6 @@
 +++
-title = "Internet is Beautiful"
-description = "Explore the web"
+title = "my bookmarks"
+description = "explore the web"
 date = "2025-03-25"
 aliases = ["about-us", "about-hugo", "contact"]
 author = "Hugo Authors"
