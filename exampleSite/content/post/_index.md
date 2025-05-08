@@ -1,8 +1,8 @@
 +++
 aliases = ["posts", "articles", "blog", "showcase", "docs"]
-title = "Posts"
-author = "Hugo Authors"
+title = "posts"
+author = "devblackcat{}"
 tags = ["index"]
 +++
 
-<h1>Posts</h1>
+<h1>posts</h1>
