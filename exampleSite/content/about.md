@@ -1,8 +1,10 @@
 +++
 title = "About Me"
+description = "I'm a software engineer with extensive experience in software development. I specialize in Python, Javascript and PHP."
+date = "2025-03-25"
+aliases = ["about-us", "about-hugo", "contact"]
+author = "Hugo Authors"
 +++
-
-I'm a software engineer with extensive experience in software development. I specialize in Python, Javascript and PHP.
 
 # Areas of Expertise
 #### Python
