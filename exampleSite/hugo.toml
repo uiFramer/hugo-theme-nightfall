@@ -44,6 +44,12 @@ aria = "Twitter Profile"
 
 [[params.social]]
 key = 3
-name = "send me"
+name = "search"
+url = "https://google.com"
+aria = "Search"
+
+[[params.social]]
+key = 4
+name = "e-mail"
 url = "mailto:devblackcat@yahoo.com"
-aria = "Send Me"
+aria = "E-mail"
