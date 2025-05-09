@@ -27,3 +27,5 @@ i have been involved in many projects, including:
 feel free to reach out to me for more information about my projects and collaboration opportunities.
 
 <a href='mailto:devblackcat@yahoo.com'>send mail</a>
+
+<meta name="theme-color" content="#000000"/>
