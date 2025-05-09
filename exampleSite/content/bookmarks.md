@@ -1,3 +1,5 @@
+<meta name="theme-color" content="#000000"/>
+
 +++
 title = "bookmarks"
 description = "explore the web"
