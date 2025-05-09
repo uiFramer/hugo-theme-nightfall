@@ -12,7 +12,7 @@ body {
 }
 
 a {
-  color: #4682B4;
+  @include v.primary-color;
 }
 
 pre code {
