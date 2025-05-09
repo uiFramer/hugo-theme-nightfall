@@ -1,5 +1,3 @@
-<meta name="theme-color" content="#000000"/>
-
 +++
 title = "bookmarks"
 description = "explore the web"
@@ -12,3 +10,5 @@ author = "Hugo Authors"
 <a target="_blank" href="https://wherecaniwatchthis.tv/">wherecaniwatchthis.tv</a><br/><br/>
 <a target="_blank" href="https://futurepedia.io/">futurepedia.io</a><br/><br/>
 <a target="_blank" href="https://todoist.com/">todoist.com</a>
+
+<meta name="theme-color" content="#000000"/>
